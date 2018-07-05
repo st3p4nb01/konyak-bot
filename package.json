@@ -1,0 +1,11 @@
+{
+  "name": "konyak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.py",
+  "scripts": {
+    "start": "python bot.py"
+  },
+  "author": "",
+  "license": "ISC"
+}
